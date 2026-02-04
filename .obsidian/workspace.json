@@ -173,13 +173,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "cf656f73cb6be414",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +203,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99f23bf5fd2b14a7",
+  "active": "237a16f40c14191f",
   "lastOpenFiles": [
+    "draft",
     "欢迎.md"
   ]
 }
