@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5470e1a0bf7a9a0b",
+        "id": "441e5612e2190a76",
         "type": "tabs",
         "children": [
           {
-            "id": "99f23bf5fd2b14a7",
+            "id": "8d33316ed8308c99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "博客元文档.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7577d0a8c293deb9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b15d2f6b93f587e2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "博客元文档"
             }
           }
         ]
@@ -203,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "237a16f40c14191f",
+  "active": "8d33316ed8308c99",
   "lastOpenFiles": [
+    "博客元文档.md",
     "draft",
     "欢迎.md"
   ]
