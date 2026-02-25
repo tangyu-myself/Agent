@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "博客元文档.md",
+                "file": "meta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "博客元文档"
+              "title": "meta"
             }
           }
         ]
@@ -191,9 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d33316ed8308c99",
+  "active": "237a16f40c14191f",
   "lastOpenFiles": [
-    "博客元文档.md",
+    "meta.md",
     "draft",
     "欢迎.md"
   ]
